@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "window.zoomLevel": 1,
+    "editor.fontSize": 12,
+    "editor.rulers": [
+        80
+    ],
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "doxdocgen.file.copyrightTag": [
+        "@copyright {year} Amazon.com, Inc. or its affiliates. All rights reserved."
+    ],
+    "editor.tabSize": 8,
+    "workbench.editor.showTabs": false,
+}
